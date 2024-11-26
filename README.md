@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Spencer Wang!
-
-<img align="right" src="https://user-images.githubusercontent.com/40715044/217863434-7b2b1d17-4e09-4bc4-bf0c-97a1ed9684b4.gif" alt="Coding GIF" width="300"/>
-
-Welcome to my GitHub profile! I'm a passionate developer, researcher, or professional with interests in **[Your Interests, e.g., Machine Learning, Web Development, etc.]**.
-
+Welcome to my GitHub profile! I'm a passionate developer, researcher, or professional with interests in Bioinformatics, Computational Biology and Radiology
 ---
 
 ## 🚀 About Me
