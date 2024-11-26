@@ -2,7 +2,17 @@
 
 🎓 **About Me**  
 - **Research Interests**: Bioinformatics, Computational Biology, Radiology, Proteomics, Osteoporosis, Machine Learning/Deep Learning and Network Analysis  
-- **Skills**: Python, R, SQL, Javascript, PHP, HTML5, ML/DL, Data Analysis and Visualization  
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 - **Passion**: Solving biomedical challenges through computational methods  
 
 ---
@@ -24,9 +34,9 @@ A Python package for flexible in biomedical network construction and analysis, m
 ## 📊 GitHub Stats
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spencer-JRWang&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
-![github stats](https://github-readme-stats.vercel.app/api?username=Spencer-JRWang&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ---
 
