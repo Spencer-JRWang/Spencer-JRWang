@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Spencer Wang!
 
 <img align="right" src="https://user-images.githubusercontent.com/40715044/217863434-7b2b1d17-4e09-4bc4-bf0c-97a1ed9684b4.gif" alt="Coding GIF" width="300"/>
 
