@@ -10,5 +10,5 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-JRWang&layout=compact&theme=tokyonight" 
-         alt="GitHub Stats" style="width: 80%;">
+         alt="GitHub Stats" style="width: 100%;">
 </div>
