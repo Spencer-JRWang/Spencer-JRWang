@@ -23,8 +23,10 @@ A Python package for flexible in biomedical network construction and analysis, m
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spencer-JRWang&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-JRWang&layout=compact&theme=radical)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spencer-JRWang&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-JRWang&theme=buefy&layout=compact" />
+</a>
 
 ---
 
