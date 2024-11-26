@@ -23,11 +23,13 @@
 A web server tool for predict phenotypic effects in single protein.
 
 ### 🌟 [Allosteric in PTEN](https://github.com/Spencer-JRWang/PTEN_Mutations)
-Network & ML & MD method to reveal allosteric effects in PTEN protein mutations
+Network & ML & MD method to reveal allosteric effects in PTEN protein mutations.
 
 ### 🌟 [BMINet](https://github.com/Spencer-JRWang/BMINet)
 A Python package for flexible in biomedical network construction and analysis, machine learning model building in CT.
 
+### 🌟 [BMINet](https://github.com/Spencer-JRWang/BMINet)
+A GUI tool to search dynamic allosteric pathway from MD simulation outcomes.
 
 ---
 
