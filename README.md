@@ -1,61 +1,31 @@
-# Hi there 👋, I'm Spencer Wang!
-Welcome to my GitHub profile! I'm a passionate developer, researcher, or professional with interests in Bioinformatics, Computational Biology and Radiology
----
+# Hi there, I'm Spencer Wang 👋
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on: **[Your Projects or Research Topics]**
-- 🌱 I’m currently learning: **[Topics You're Exploring]**
-- 💬 Ask me about: **[Your Expertise]**
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter]
-- ⚡ Fun fact: **[A Fun or Unique Fact About You]**
+🎓 **About Me**  
+- **Research Interests**: Bioinformatics, Computational Biology, Radiology, Proteomics, Osteoporosis, Machine Learning/Deep Learning and Network Analysis  
+- **Skills**: Python, R, SQL, Javascript, PHP, HTML5, ML/DL, Data Analysis and Visualization  
+- **Passion**: Solving biomedical challenges through computational methods  
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🌟 [protPheMut](https://github.com/Spencer-JRWang/protPheMut)
+A web server tool for predict phenotypic effects in single protein.
 
-Add more badges for the tech you use! You can find badges [here](https://shields.io/).
+### 🌟 [Allosteric in PTEN](https://github.com/Spencer-JRWang/PTEN_Mutations)
+Network & ML & MD method to reveal allosteric effects in PTEN protein mutations
 
----
+### 🌟 [BMINet](https://github.com/Spencer-JRWang/BMINet)
+A Python package for flexible in biomedical network construction and analysis, machine learning model building in CT.
 
-## 🌟 Featured Projects
-
-### 🚀 [Project 1 Name](https://github.com/yourusername/project1)
-Description of the project and its significance.
-
-![Tech Stack Badge](https://img.shields.io/badge/Tech-React-blue?style=for-the-badge)
-![Tech Stack Badge](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ---
 
-### 🛠️ [Project 2 Name](https://github.com/yourusername/project2)
-Brief summary of the project and why it’s cool.
+## 📊 GitHub Stats
 
-![Tech Stack Badge](https://img.shields.io/badge/Tech-Django-blue?style=for-the-badge)
-![Tech Stack Badge](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" style="width: 80%;">
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-### ✨ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
-
----
-
-### 🤝 Let's Collaborate!
-
-Feel free to reach out for collaboration or discussion about exciting projects! 😊
+🌱 **I’m always learning and open to collaboration.** Feel free to reach out or explore my repositories. 😊
