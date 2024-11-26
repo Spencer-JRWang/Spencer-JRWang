@@ -25,7 +25,7 @@ A Python package for flexible in biomedical network construction and analysis, m
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spencer-JRWang&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-JRWang&theme=buefy&layout=compact" />
+ <img src='https://codestats-readme.wegfan.cn/history-graph/Spencer-JRWang?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="WEGFan's Code::Stats history graph" />
 </a>
 
 ---
