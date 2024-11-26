@@ -28,7 +28,7 @@ Network & ML & MD method to reveal allosteric effects in PTEN protein mutations.
 ### 🌟 [BMINet](https://github.com/Spencer-JRWang/BMINet)
 A Python package for flexible in biomedical network construction and analysis, machine learning model building in CT.
 
-### 🌟 [BMINet](https://github.com/Spencer-JRWang/BMINet)
+### 🌟 [PDNPR](https://github.com/Spencer-JRWang/PDNPR)
 A GUI tool to search dynamic allosteric pathway from MD simulation outcomes.
 
 ---
