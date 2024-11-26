@@ -4,4 +4,11 @@
   - Department of Orthopedic Surgery, The First Affiliated Hospital of Soochow University
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-JRWang&layout=compact&theme=tokyonight)
+# GitHub Statistics
+
+---
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" 
+         alt="GitHub Stats" style="width: 80%;">
+</div>
