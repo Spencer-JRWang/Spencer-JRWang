@@ -20,7 +20,7 @@
 ## 📂 Featured Projects
 
 ### 🌟 [protPheMut](https://github.com/Spencer-JRWang/protPheMut)
-A web server tool for predict phenotypic effects in single protein.
+A web server tool for predict phenotypic effects of missense mutations in single protein.
 
 ### 🌟 [Allosteric in PTEN](https://github.com/Spencer-JRWang/PTEN_Mutations)
 Network & ML & MD method to reveal allosteric effects in PTEN protein mutations.
