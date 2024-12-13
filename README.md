@@ -36,8 +36,12 @@ A GUI tool to search dynamic allosteric pathway from MD simulation outcomes.
 ## 📊 GitHub Stats
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spencer-JRWang&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer-JRWang&theme=buefy&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spencer-JRWang&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Spencer-JRWang&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 
 ---
