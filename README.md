@@ -19,7 +19,7 @@
 
 ## 📂 Featured Projects
 ### 🌟 [PD-SPIN](https://github.com/Spencer-JRWang/PD-SPIN)
-PLM and Dynamic Structure-informed Protein-protein Interaction NetworkPLM and Dynamic Structure-informed Protein-protein Interaction Network.
+PLM and Dynamic Structure-informed Protein-protein Interaction Network.
 
 ### 🌟 [protPheMut](https://github.com/Spencer-JRWang/protPheMut)
 A web server tool for predict phenotypic effects of missense mutations in single protein.
