@@ -43,3 +43,4 @@ A GUI tool to search dynamic allosteric pathway from MD simulation outcomes.
 ---
 
 🌱 **I’m always learning and open to collaboration.** Feel free to reach out or explore my repositories. 😊
+📫: jrwangspencer@stu.suda.edu.cn
